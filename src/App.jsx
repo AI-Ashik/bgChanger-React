@@ -32,7 +32,7 @@ const App = () => {
 
           <button
             onClick={() => setColor("white")}
-            className="bg-gray-400 hover:bg-yellow-700 text-black font-bold py-2 px-4 rounded ml-4"
+            className="bg-gray-400 hover:bg-gray-700 text-black font-bold py-2 px-4 rounded ml-4"
           >
             Default
           </button>
